@@ -1,0 +1,25 @@
+{
+    "name": "haris-custom-dark-theme-2",
+    "displayName": "Haris Custom Dark Theme 3",
+    "description": "",
+    "publisher": "harisAbdullah",
+    "author": {
+        "name": "harisAbdullah"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Haris Custom Dark Theme 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Haris Custom Dark Theme 2-color-theme.json"
+            }
+        ]
+    }
+}
